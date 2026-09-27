@@ -2,7 +2,6 @@
 
 A comprehensive iOS shortcut that automatically notifies you at Suhoor and Iftar times based on your location and manages alarms accordingly — so you never miss a fast.
 
----
 
 ## Features
 
@@ -11,7 +10,6 @@ A comprehensive iOS shortcut that automatically notifies you at Suhoor and Iftar
 - **iOS Shortcuts Integration** — Runs unobtrusively in the background via automated iOS Shortcuts routines.
 - **Customizable Fast Tracking** — Flexible configuration allowing you to toggle tracking for specific obligatory or voluntary observances.
 
----
 
 ## Supported Fasts
 
@@ -24,7 +22,6 @@ A comprehensive iOS shortcut that automatically notifies you at Suhoor and Iftar
 | **Mondays & Thursdays** | Weekly recurring | Voluntary (*Sunnah*) |
 | **Six Days of Shawwal** | Post-Eid al-Fitr (Manual Mode) | Voluntary (*Sunnah*) |
 
----
 
 ## Installation & Setup
 
@@ -79,7 +76,6 @@ A comprehensive iOS shortcut that automatically notifies you at Suhoor and Iftar
 
 ![Automation Configuration](images/automation-config.png)
 
----
 
 ## Usage
 
@@ -93,7 +89,6 @@ For voluntary fasts such as the **Six Days of Shawwal** or continuous fasting pe
 2. The shortcut will calculate and trigger alarms for every consecutive day.
 3. **Remember** to set **`Fast Everyday`** back to **`False`** once your fasting period concludes.
 
----
 
 ## Known Limitations
 
@@ -104,7 +99,6 @@ For voluntary fasts such as the **Six Days of Shawwal** or continuous fasting pe
 | **Internet Dependency** | Prayer times are fetched dynamically via network requests; offline execution is not supported. |
 | **Location Access** | Location permissions must be granted to accurately compute local Suhoor and Iftar timings. |
 
----
 
 ## License
 
